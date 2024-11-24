@@ -1,0 +1,85 @@
+#Rectangle{
+background-color: #303030;
+margin: 0px;
+width: 1440px;
+height: 475px;
+}
+
+#H1texto{
+
+    width: 1024px;
+    line-height: 72px;
+    margin-left: 50px;
+    font-family: inter;
+    color: #FFFFFF;
+    font-size: 60px;
+    
+}
+#BTexto{
+    color: #FFFFFF;
+    font-size: 20px;
+    width: 500px;
+    margin-left: 62px;
+    margin-top: 0px;
+}
+#imagins{
+    background-color: #F9F9F9;
+    width: 1300px;
+    height: 50px;
+    display: grid;
+    grid-auto-flow: column;
+    padding: 70px;
+}
+#TextoDeimagin{
+    
+    display: grid;
+    grid-auto-flow: column;
+
+}
+#imaginArquitetos{
+    width: 510px;
+    height: 605px;
+    margin-top: 75px;
+    border-radius: 30px; 
+margin-bottom: 50px;  }
+
+ 
+ #TextoArquitetos{
+       margin-top: 200px;
+       margin-left: 50px;
+       font-family: inter;
+}
+#Dados{
+    align-items: center;
+    width: 1440px;
+    height: 638px;
+    background-color: #303030;
+}
+#TextoDados{
+    font-family: inter;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 30px;
+}
+input{
+height: 72px;
+border-radius: 10px;
+width:508px ;
+color: #FFFFFF;
+margin-left: 460px;
+margin-top: 30px;
+padding-left: 10px;
+}
+
+
+button{
+    margin-left: 570px;
+    width: 286px;
+    height: 74px;
+    background-color: #C07212;
+    color: #FFFFFF;
+    transform: translateX(-7px);   
+    transition-duration:.10s ;
+    cursor: pointer;
+    border-radius: 10px;
+}
